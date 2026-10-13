@@ -1,0 +1,8 @@
+Package: stswap
+Title: Graft and replace subtrees into bigger trees
+Version: 0.0.0.9000
+Author: Tom Carruthers
+License: Creative Commons
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
